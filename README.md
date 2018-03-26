@@ -1,4 +1,4 @@
-# hello-world
-A hello-world exercise and test.
+# Just temp
+An exercise only...
 
 This is really a good way of doing projects. :)
